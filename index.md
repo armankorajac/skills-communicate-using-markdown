@@ -8,3 +8,10 @@
 def f(x):
   return x**x
 ```
+
+To-do list:
+
+- [x] Check the code
+- [x] Check that it works
+- [ ] Implement it 
+
